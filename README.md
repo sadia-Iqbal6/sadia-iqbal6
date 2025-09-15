@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi, I’m Sadia Iqbal  
+
+I am a CS sophomore at Rutgers University. I have experience with Java from CS111 and CS112, and I am learning C through Computer Architecture. I am interested in software engineering and developing, data structures & algorithms. Check out my Java projects from Intro to CS and Data Structures! 
+
+
 
 <!--
 **sadia-Iqbal6/sadia-iqbal6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
