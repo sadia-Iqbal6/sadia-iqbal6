@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sadia Iqbal  
 
-I am a CS sophomore at Rutgers University. I have experience with Java from CS111 and CS112, and I am learning C through Computer Architecture. I am interested in software engineering and developing, data structures & algorithms. Check out my Java projects from Intro to CS and Data Structures! 
+I am a CS sophomore at Rutgers University. I have experience with Java from CS111 and CS112, and I have experience with C through Computer Architecture. I am interested in software engineering and developing, data structures & algorithms. Check out my Java and C projects from Intro to CS, Data Structures, and Computer Architecture! 
 
 
 
